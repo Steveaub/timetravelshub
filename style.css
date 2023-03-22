@@ -93,21 +93,23 @@ font-weight: #1f2937;
 
 .section-wrapper {
 display: flex;
-padding-left:48px ;
+padding-left: 48px;
+}
+
+.section-wrapper img {
+ width: 100px;
+ height: auto;
 }
 
 .text {
 padding-top: 10px;
-display: flex
 }
 
 .journey {
-width: 200px;
-height: auto;
+
 }
 
 
 
 .section-two {
-
 }
