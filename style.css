@@ -50,7 +50,6 @@ align-items: center;
 img {
 border-radius: 5px;
 height: 300px; 
-
 }
 
 ul {
@@ -83,3 +82,32 @@ margin-top: 25px ;
 
 }
 
+.slogan {
+display: flex;
+justify-content: center;
+font-size: 36px;
+margin-top: 35px;
+margin-bottom: 35px;
+font-weight: #1f2937;
+}
+
+.section-wrapper {
+display: flex;
+padding-left:48px ;
+}
+
+.text {
+padding-top: 10px;
+display: flex
+}
+
+.journey {
+width: 200px;
+height: auto;
+}
+
+
+
+.section-two {
+
+}
