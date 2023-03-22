@@ -93,16 +93,20 @@ font-weight: #1f2937;
 
 .section-wrapper {
 display: flex;
-padding-left: 48px;
+gap: 20px;
+width: 1000px;
+text-align: center;
 }
 
 .section-wrapper img {
- width: 100px;
+ width: 150px;
  height: auto;
+ 
 }
 
 .text {
 padding-top: 10px;
+
 }
 
 .journey {
@@ -112,4 +116,7 @@ padding-top: 10px;
 
 
 .section-two {
+display: flex;
+flex-direction: column;
+align-items: center;
 }
