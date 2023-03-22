@@ -36,7 +36,7 @@ font-weight: 800 ;
 color: #f9faf8;
 }
 
-.text {
+.text1 {
 font-size: 18px ;
 color: #e5e7eb;
 }
@@ -70,9 +70,6 @@ color: #f9faf8;
  padding: 50px;
  }
 
-button-wrap {
-
-}
 
 button {
 background-color: #498bf6 ;
@@ -83,4 +80,6 @@ padding-left: 20px;
 padding-right: 20px;
 font-size: 20px;
 margin-top: 25px ;
+
 }
+
