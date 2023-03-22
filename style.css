@@ -10,7 +10,6 @@ display: flex;
 align-items: center;
 justify-content: space-between;
 margin-bottom: 30px;
-
 }
 .logo {
 font-size: 24px;
@@ -21,8 +20,6 @@ color: #f9faf8;
 display: flex;
 flex-direction: column;
 width: 600px;
-
-
 }
 
 .right {
@@ -74,12 +71,11 @@ button {
 background-color: #498bf6 ;
 color: #e5e7eb; ;
 border: none;
-border-radius: 10px;
-padding-left: 20px;
-padding-right: 20px;
+border-radius: 5px;
+padding-left: 15px;
+padding-right: 15px;
 font-size: 20px;
 margin-top: 25px ;
-
 }
 
 .slogan {
@@ -101,22 +97,43 @@ text-align: center;
 .section-wrapper img {
  width: 150px;
  height: auto;
- 
-}
+ }
 
 .text {
 padding-top: 10px;
 
-}
-
-.journey {
 
 }
-
-
 
 .section-two {
 display: flex;
 flex-direction: column;
 align-items: center;
+padding-bottom: 0px;
+}
+
+.section-three {
+background-color:#e5e7eb ;
+
+padding-top: 75px;
+padding-bottom: 75px;
+display: flex;
+justify-content: center;
+flex-direction: column;
+align-items: center;
+}
+
+.quote {
+width: 800px;
+font-weight: 300;
+font-size: 36px;
+font-style: italic;
+color: #1f2937;
+padding-bottom: 10px;
+}
+
+strong {
+padding-left: 600px;
+font-size: 19px;
+
 }
