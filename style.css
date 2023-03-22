@@ -1,23 +1,32 @@
 body {
- box-sizing: border-box;
+
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.right {
+
+}
+
+.left {
+    
+   
 }
 
 ul {
 list-style-type: none;
-    display: flex;
-
-}
-.top-wrapper {
- background: color #1f2937; ;
+display: flex;
+gap: 16px;
 }
 
-.header-wrapper {
-  display: flex;
-  gap: 12px;
 
-}
+
 
 a {
     text-decoration: none;
-    color: white;
+    /* color: white; */
 }
