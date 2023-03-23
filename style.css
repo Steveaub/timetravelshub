@@ -67,7 +67,7 @@ color: #f9faf8;
  }
 
 
-button {
+.button1 {
 background-color: #498bf6 ;
 color: #e5e7eb; ;
 border: none;
@@ -136,4 +136,35 @@ font-weight: 100;
 padding-left: 600px;
 font-size: 19px;
 font-weight: 800;
+}
+
+.section-four {
+/* display: flex; */
+justify-content: center;
+align-items: center;
+background-color: #498bf6; 
+margin: 50px;
+border-radius: 5px;
+/* width: 600px; */
+padding: 4%;
+}
+
+.button2 {
+background-color: #498bf6;
+color: #e5e7eb; 
+border-color: #e5e7eb;
+}
+
+.action-wrap button {
+ 
+}
+
+.text4 {
+color: #e5e7eb;
+font-weight: 900;
+font-size: 18px;
+}
+.action {
+color: #e5e7eb;
+font-size: 18px;
 }
