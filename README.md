@@ -3,3 +3,5 @@
   Pixabay license top section image
 
   dalle was used for images in second section
+
+  new image for section one was created with midjourney
