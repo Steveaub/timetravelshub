@@ -139,24 +139,30 @@ font-weight: 800;
 }
 
 .section-four {
-/* display: flex; */
+display: flex;
+
 justify-content: center;
 align-items: center;
 background-color: #498bf6; 
 margin: 50px;
-border-radius: 5px;
-/* width: 600px; */
-padding: 4%;
+border-radius: 10px;
+/* width: 1000px; */
 }
 
 .button2 {
 background-color: #498bf6;
 color: #e5e7eb; 
 border-color: #e5e7eb;
+border-radius: 5px;
+margin-top: 20px;
+border: 2px solid white;
+
 }
 
-.action-wrap button {
- 
+.action-wrap {
+/* display: flex; */
+flex-direction: column;
+padding: 6%;
 }
 
 .text4 {
@@ -167,4 +173,14 @@ font-size: 18px;
 .action {
 color: #e5e7eb;
 font-size: 18px;
+}
+
+footer {
+background-color: #1f2937;
+font-size: 20px;
+color: #f9faf8;
+display: flex;
+justify-content: center;
+align-items: center;
+padding: 4%;
 }
